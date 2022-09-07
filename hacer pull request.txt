@@ -1,0 +1,6 @@
+crear rama local
+
+
+enviar a una nueva rama en el repositorio
+
+hacer pull request
